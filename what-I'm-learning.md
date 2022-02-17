@@ -2,8 +2,10 @@
 ##### *Projects, advanced use cases, and more granular technicals of web3*
 
 ## Roll-ups
-#### * Optimistic
-#### * Zero Knowledge (ZKs)
+#### 
+* Optimistic
+* Zero Knowledge (ZKs)
+#### *more coming soon...*
 
 
 
