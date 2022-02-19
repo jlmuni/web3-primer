@@ -1,6 +1,8 @@
 ## What I'm learning
 ##### *Projects, advanced use cases, and more granular technicals of web3*
 
+
+## 'Do things that...scale'
 ## Roll-ups
 #### 
 * Optimistic
@@ -13,7 +15,10 @@
     - uses _validity proofs_: txs are rolled up (L2 batches multiple txs, sends to mainnet, aka L1, as a single tx)
 #### *more coming soon...*
 
-
+## Bridges
+####
+* Rainbow bridge (NEAR)
+* Algorand
 
 
 ## Projects to watch
