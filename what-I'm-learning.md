@@ -3,7 +3,7 @@
 
 
 ## 'Do things that...scale'
-## Roll-ups
+### Roll-ups
 #### 
 * Optimistic
     - Assumes state changes are valid, posts tx to ETH's L1
@@ -15,7 +15,7 @@
     - uses _validity proofs_: txs are rolled up (L2 batches multiple txs, sends to mainnet, aka L1, as a single tx)
 #### *more coming soon...*
 
-## Bridges
+### Bridges
 ####
 * Rainbow bridge (NEAR)
 * Algorand
