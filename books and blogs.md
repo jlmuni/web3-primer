@@ -9,4 +9,5 @@
 #### Coindesk: crypto market news
 * link: https://www.coindesk.com
 
-#### 
+#### Paradigm Research
+* link: https://research.paradigm.xyz
